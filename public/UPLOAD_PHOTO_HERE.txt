@@ -1,0 +1,5 @@
+Put your profile picture in this folder and name it:
+
+profile.jpg
+
+Recommended size: square image, at least 600x600 pixels.
