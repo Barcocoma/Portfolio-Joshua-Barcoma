@@ -26,7 +26,7 @@ PROFILE = Profile(
     ),
     location="Philippines",
     email=os.getenv("CONTACT_EMAIL", "barcomajoshua87@gmail.com"),
-    github="https://github.com/",
+    github="https://github.com/Barcocoma",
 )
 
 PROJECTS = [

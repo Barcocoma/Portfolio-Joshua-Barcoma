@@ -5,7 +5,7 @@ export const profile = {
     'Aspiring Software Developer focused on building practical, clean, and responsive web systems based on real project experience, with strong skills in frontend development, backend APIs, and database-driven applications.',
   location: 'Philippines',
   email: 'barcomajoshua87@gmail.com',
-  github: 'https://github.com/',
+  github: 'https://github.com/Barcocoma',
   photo: '/profile.jpg',
 };
 
